@@ -29,7 +29,6 @@ The AR navigation is designed to work by placing your phone inside your car, pro
 ![{C68B342F-A9EF-4563-94B2-E7EBF79CA391}](https://github.com/user-attachments/assets/52efb6ac-90c1-4e87-a9ae-0992eaf1a775)
 ![{690468EB-DE7F-444E-8EFC-87BDD2A503B4}](https://github.com/user-attachments/assets/25cac680-4044-4d01-8b72-356063b3ffca)
 ![{B3AC2B08-DE13-4825-A6F3-B5982B45D4EF}](https://github.com/user-attachments/assets/8a1c9cd0-c77c-4fc5-a0d7-603701b5599d)
-![{045B73A8-37A7-45C6-A78D-04F5333E7FA4}](https://github.com/user-attachments/assets/6367f275-c388-4898-a198-c117790428ba)
 ![{E4EA9E78-D1B2-4EC2-8DFC-1CF6D2BB039A}](https://github.com/user-attachments/assets/8f0d89c8-1bd3-444b-8ca8-5b11941deac6)
 ![{125856A6-3A70-40E1-BD31-0B69AD709000}](https://github.com/user-attachments/assets/7c97d3dc-75c4-4ca3-a3e3-0fbeda1f4548)
 
