@@ -1,4 +1,6 @@
-# XR Creator Project: Markerless AR CAR and AR GPS Navigation
+# This Project Bagged NATIONAL LEVEL RECOGNITION at XR Creator Hackathon at WAVES Summit 2025 backed by Ministry of Information and Broadcast, India 🇮🇳 as Grand Finalists [National TOP 40] out of 3000+ Submissions
+
+## PocketShowroomARNavigation - A Full Fledged Car Showroom in your Mobile along with AR Navigation
 
 ## Acknowledgements:
 This project is a result of teamwork with [jishanahmed-shaikh](https://github.com/jishanahmed-shaikh)
