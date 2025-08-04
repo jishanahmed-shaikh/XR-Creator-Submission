@@ -11,7 +11,6 @@ _Backed by Ministry of Information and Broadcasting, India_
 ![Platform](https://img.shields.io/badge/Platform-Mobile-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Grand%20Finalist-orange)
 </div>
----
 
 ## 🔍 Overview
 
