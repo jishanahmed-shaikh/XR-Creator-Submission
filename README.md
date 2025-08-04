@@ -86,7 +86,7 @@ git clone https://github.com/jishanahmed-shaikih/XR-Creator-Submission.git
 ## 🤝 Acknowledgements
 
 This project is a result of collaboration with:  
-[🔗 @Rahil-Shaikh](https://github.com/Mihaillo29))
+[🔗Rahil-Shaikh](https://github.com/Mihaillo29)
 
 ---
 
