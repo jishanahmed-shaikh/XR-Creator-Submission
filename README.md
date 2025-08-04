@@ -58,7 +58,7 @@ Built with Unity and Vuforia, this project features:
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/jishanahmed-shaikih/XR-Creator-Submission.git
+git clone https://github.com/jishanahmed-shaikh/XR-Creator-Submission.git
 ```
 
 1. Open the project in **Unity 2021.3.4f1**
