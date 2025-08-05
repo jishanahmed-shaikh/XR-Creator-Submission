@@ -3,8 +3,8 @@
 <div align="center">
   <img src="PocketshowroomARNavigation.png" alt="Pocketshowroom-ARNavigation Logo" width="120" height="120">
 
-### 🏆 National Top 40 Finalist – XR Creator Hackathon @ WAVES Summit 2025 🇮🇳  
-_Backed by Ministry of Information and Broadcasting, India_
+### 🏆 National Top 40, Grand Finalist – XR Creator Hackathon @ WAVES Summit 2025 🇮🇳  
+_Initiative Backed by Ministry of Information and Broadcasting, India_
 
 ![Unity](https://img.shields.io/badge/Unity-2021.3.4f1-blue?logo=unity)
 ![Vuforia](https://img.shields.io/badge/Vuforia-Markerless%20AR-green?logo=vuforia)
