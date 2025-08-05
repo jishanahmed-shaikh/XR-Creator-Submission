@@ -49,7 +49,7 @@ Built with Unity and Vuforia, this project features:
 | Home Screen          | ![image](https://github.com/user-attachments/assets/b7e6cd81-af9c-403a-acad-05f24372d488) |
 | Model Selection      | ![image](https://github.com/user-attachments/assets/52efb6ac-90c1-4e87-a9ae-0992eaf1a775) |
 | Product Placement    | ![image](https://github.com/user-attachments/assets/25cac680-4044-4d01-8b72-356063b3ffca) |
-| Customize & Interior | ![image](https://github.com/user-attachments/assets/8a1c9cd0-c77c-4fc5-a0d7-603701b5599d) |
+| Customization & Car Model Interaction | ![image](https://github.com/user-attachments/assets/8a1c9cd0-c77c-4fc5-a0d7-603701b5599d) |
 | AR Navigation        | ![image](https://github.com/user-attachments/assets/8f0d89c8-1bd3-444b-8ca8-5b11941deac6) |
 | Real World Overlay   | ![image](https://github.com/user-attachments/assets/7c97d3dc-75c4-4ca3-a3e3-0fbeda1f4548) |
 
