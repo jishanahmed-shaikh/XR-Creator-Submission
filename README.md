@@ -1,7 +1,7 @@
 # 🚗 PocketShowroom AR-Navigation
 
 <div align="center">
-  <img src="PocketshowroomARNavigation.png" alt="Pocketshowroom-ARNavigation Logo" width="180" height="180">
+  <img src="PocketshowroomARNavigation.png" alt="Pocketshowroom-ARNavigation Logo" width="200" height="200">
 
 ### 🏆 National Top 40, Grand Finalist – XR Creator Hackathon @ WAVES Summit 2025 🇮🇳  
 _Initiative Backed by Ministry of Information and Broadcasting, India_
